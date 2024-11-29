@@ -61,18 +61,6 @@ about_content: | # this will include new lines to allow paragraphs
   Also, I'm interested in computational imaging, and weakly- and self-supervised learning.
 
 content:
-  - title: Education # Title for the section
-  layout: list # Type of content section (list/text)
-  content:
-    - layout: left
-      title: KAIST
-      caption: 2022 - Current
-      sub_title: Ph.D. Candidate in Bio and Brain Engineering
-      quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-      description: | # this will include new lines to allow paragraphs
-        Advisor: Jong Chul Ye and Mooseok Jang
-  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
