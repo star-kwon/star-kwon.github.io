@@ -88,7 +88,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: "VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models"
         link: https://vision-xl.github.io/
         quote: >
