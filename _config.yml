@@ -96,7 +96,7 @@ content:
     content:
       - layout: top-middle
         title: VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models
-        sub_title: Taesung Kwon and J. C. Ye
+        link: https://vision-xl.github.io/
         # link_text: Project Website
         additional_links:
           - title: sproogen/modern-resume-theme
