@@ -95,8 +95,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: [VISION-XL](https://vision-xl.github.io/)
-        link: github.com/sproogen
+        title: VISION-XL
+        link: https://vision-xl.github.io/
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
