@@ -181,7 +181,18 @@ content:
           **CVPRW, 2022**
           
           Placed 11th place with 1,197 votes for visual preference, out of a total of 3,250 votes. Recovering the visual appearance of night photography.
-          
+
+  - title: Patents
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Method and Apparatus for Low-Dose X-Ray Computed Tomography Image Processing Based on Efficient Unsupervised Learning Using Invertible Neural Network**
+
+      J. C. Ye, **Taesung Kwon**
+
+      U.S. Patent Application, Filed, No. 17/848,689, 2022
+
+      Korean Patent, Granted, No. 10-2643601, 2024
+      
   - title: Awards and Honors
     layout: text
     content: | # this will include new lines to allow paragraphs
