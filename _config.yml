@@ -90,9 +90,10 @@ content:
     content:
       - layout: left
         title: "VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models"
-        sub_title: Taesung Kwon and J. C. Ye
         link: https://vision-xl.github.io/
         description: | # this will include new lines to allow paragraphs
+          **Taesung Kwon** and J. C. Ye
+          
           Solving HD video inverse problems using only latent diffusion models. Supporting wide-range ratio using SDXL.
 
   - title: Experience # Title for the section
