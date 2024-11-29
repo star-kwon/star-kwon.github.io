@@ -66,21 +66,21 @@ content:
     content:
       - layout: top-middle
         title: KAIST
-        caption: Advisor - Jong Chul Ye and Mooseok Jang
+        caption: "Advisors: Jong Chul Ye and Mooseok Jang"
         sub_title: Ph.D. Candidate in Bio and Brain Engineering
         quote: >
           2022 - Current
 
       - layout: top-middle
         title: KAIST
-        caption: "Advisor: [Jong Chul Ye](https://scholar.google.com/citations?user=KBYkyKwAAAAJ&hl=en)"
+        caption: "Advisor: Jong Chul Ye"
         sub_title: M.S. in Bio and Brain Engineering
         quote: >
           2020 - 2022
           
       - layout: top-middle
         title: KAIST
-        caption: Advisor - Yoonkey Nam
+        caption: "Advisor: Yoonkey Nam"
         sub_title: B.S. in Bio and Brain Engineering
         quote: >
           2015 - 2020
@@ -90,19 +90,11 @@ content:
     content:
       - layout: top-middle
         title: "VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models"
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        link: https://vision-xl.github.io/
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          **Taesung Kwon** and J. C. Ye
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and
+          Solving HD video inverse problems using only latent diffusion models. Supporting wide-range ratio using SDXL.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
