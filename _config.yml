@@ -68,8 +68,7 @@ content:
         title: KAIST
         caption: 2022 - Current
         sub_title: Ph.D. Candidate in Bio and Brain Engineering
-        description: | # this will include new lines to allow paragraphs
-          Advisor: Jong Chul Ye and Moosoek Jang
+        caption: Advisor: Jong Chul Ye and Moosoek Jang
       - layout: top-middle
         title: KAIST
         caption: 2020 - 2022
