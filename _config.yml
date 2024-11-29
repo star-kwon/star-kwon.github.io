@@ -64,10 +64,12 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: KAIST
         caption: 2022 - Current
         sub_title: Ph.D. Candidate in Bio and Brain Engineering
+        quote: >
+          Advisor: [Jong Chul Ye](https://scholar.google.com/citations?user=HNMjoNEAAAAJ&hl=en)
         description: | # this will include new lines to allow paragraphs
           **Advisor** 
           
