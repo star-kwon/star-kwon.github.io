@@ -160,7 +160,7 @@ content:
           Efficient CycleGAN framework using only 10% of conventional framework for low-dose CT denoising.
       
           
-   - title: Workshop # Title for the section
+  - title: Workshop # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -181,6 +181,7 @@ content:
           **CVPRW, 2022**
           
           11th place with 1,197 votes for people's choice of visual preference. Recovering visual apprearanve of the night photography.
+          
   - title: Awards and Honors
     layout: text
     content: | # this will include new lines to allow paragraphs
