@@ -104,6 +104,61 @@ content:
           arXiv, 2024
           
           State-of-the-art performance, efficiently generating high-quality, smooth videos between keyframes.
+      - layout: left
+        title: "Solving Video Inverse Problems Using Image Diffusion Models"
+        link: https://svi-diffusion.github.io/
+        description: | # this will include new lines to allow paragraphs
+          **Taesung Kwon**, J. C. Ye
+
+          arXiv, 2024
+          
+          Solving video inverse problems using only image diffusion models, with batch-consistent sampling stretagy.
+      - layout: left
+        title: "Video Reconstruction Beyond Dynamic Scattering Medium"
+        link: https://github.com/star-kwon/VDPS
+        description: | # this will include new lines to allow paragraphs
+          **Taesung Kwon\***, G. Song\*, Y. Kim, J. Kim, J. C. Ye, M. Jang **(*co-first)**
+
+          Submitted to TPAMI
+          
+          Video reconstruction through dynamic scattering layer using video diffusion models.
+      - layout: left
+        title: "Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion"
+        link: https://hiper0.github.io/
+        description: | # this will include new lines to allow paragraphs
+          I. Han\*, S. Yang\*, **Taesung Kwon**, J. C. Ye
+
+          arXiv, 2023
+          
+          Image manipulation using personalized text embedding from Stable Diffusion.
+      - layout: left
+        title: "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation"
+        link: https://github.com/gwang-kim/DiffusionCLIP
+        description: | # this will include new lines to allow paragraphs
+          G. Kim, **Taesung Kwon**, J. C. Ye
+
+          **CVPR, 2022**
+          
+          Robust text-driven image manipulation using text-to-image diffusion models.
+      - layout: left
+        title: "Noise Distribution Adaptive Self-Supervised Image Denoising using Tweedie Distribution and Score Matching"
+        link: https://github.com/cubeyoung/NoiseAdaptive2Score
+        description: | # this will include new lines to allow paragraphs
+          K. Kim, **Taesung Kwon**, J. C. Ye
+
+          **CVPR, 2022**
+          
+          Noise distribution and level adaptive denoising framework using Tweedie distribution and score matching.
+      - layout: left
+        title: "Cycle-free CycleGAN using Invertible Generator for Unsupervised Low-Dose CT Denoising"
+        link: https://github.com/star-kwon/TCI_CyclefreeCycleGAN
+        description: | # this will include new lines to allow paragraphs
+          **Taesung Kwon**, J. C. Ye
+
+          **IEEE TCI, 2021**
+          
+          Efficient CycleGAN framework using only 10% of conventional framework for low-dose CT denoising.
+      
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
