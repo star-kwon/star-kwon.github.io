@@ -69,13 +69,11 @@ content:
         caption: 2022 - Current (Advisor: Jong Chul Ye and Mooseok Jang)
         sub_title: Ph.D. Candidate in Bio and Brain Engineering
         description: "" # this will include new lines to allow paragraphs
-        
       - layout: top-middle
         title: Korea Advanced Institute of Science and Technology (KAIST)
         caption: 2020 - 2022 (Advisor: Jong Chul Ye)
         sub_title: M.S. in Bio and Brain Engineering
         description: "" # this will include new lines to allow paragraphs
-
       - layout: top-middle
         title: Korea Advanced Institute of Science and Technology (KAIST)
         caption: 2015 - 2020 (Advisor: Yoonkey Nam)
