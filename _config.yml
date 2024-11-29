@@ -165,22 +165,16 @@ content:
     content:
       - layout: left
         title: "NTIRE 2022 Spectral Recovery Challenge and Data Set"
-        link: https://ieeexplore.ieee.org/document/9857125
         description: | # this will include new lines to allow paragraphs
-          B. Arad, et al.
-
           **CVPRW, 2022**
           
           Placed 9th out of 241 teams in a competition. Recovering hyperspectral information from JPEG-compressed RGB images.
       - layout: left
         title: "NTIRE 2022 Challenge on Night Photography Rendering"
-        link: https://ieeexplore.ieee.org/document/9856964
         description: | # this will include new lines to allow paragraphs
-          E. Ershov, et al.
-
           **CVPRW, 2022**
           
-          Placed 11th place with 1,197 votes for visual preference, out of a total of 3,250 votes. Recovering the visual appearance of night photography.
+          Placed 11th with 1,197 votes for visual preference, out of a total of 3,250 votes. Recovering the visual appearance of night photography.
 
   - title: Patents
     layout: text
