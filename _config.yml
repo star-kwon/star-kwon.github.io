@@ -91,7 +91,7 @@ content:
           
           [Yoonkey Nam](https://scholar.google.com/citations?user=KBYkyKwAAAAJ&hl=en)
 
-  - title: Research # Title for the section
+   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -99,7 +99,7 @@ content:
         link: https://vision-xl.github.io/
         # link_text: Project Website
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
