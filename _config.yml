@@ -66,10 +66,10 @@ content:
     content:
       - layout: top-middle
         title: KAIST
-        caption: 2022 - Current
+        caption: Advisor: [Jong Chul Ye](https://scholar.google.com/citations?user=HNMjoNEAAAAJ&hl=en)
         sub_title: Ph.D. Candidate in Bio and Brain Engineering
         quote: >
-          Advisor: [Jong Chul Ye](https://scholar.google.com/citations?user=HNMjoNEAAAAJ&hl=en)
+          2022 - Current
         # description: | # this will include new lines to allow paragraphs
         #   **Advisor** 
           
