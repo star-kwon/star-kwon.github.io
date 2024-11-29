@@ -174,7 +174,7 @@ content:
           9th place among 241 attended teams. Recovering hyper-spectral information from JPEG-compressed RGB images.
       - layout: left
         title: "NTIRE 2022 Challenge on Night Photography Rendering"
-        link: https://vibid.github.io/
+        link: https://ieeexplore.ieee.org/document/9856964
         description: | # this will include new lines to allow paragraphs
           E. Ershov, et al.
 
