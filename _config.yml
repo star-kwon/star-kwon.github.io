@@ -91,7 +91,7 @@ content:
           
           [Yoonkey Nam](https://scholar.google.com/citations?user=KBYkyKwAAAAJ&hl=en)
 
-   - title: Research # Title for the section
+  - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
