@@ -95,11 +95,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: VISION-XL
-        link: https://vision-xl.github.io/
+        title: VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models
+        caption: Taesung Kwon and J. C. Ye
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
