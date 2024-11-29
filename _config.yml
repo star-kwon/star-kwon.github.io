@@ -199,6 +199,11 @@ content:
       - **KAIST Scholarship**, KAIST, 2022-2024
       - **Korean Government Scholarship**, KAIST, 2020-2021
 
+  - title: Services
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Conference reviewers**: CVPR, NeurIPS, ICLR, ICCV
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
