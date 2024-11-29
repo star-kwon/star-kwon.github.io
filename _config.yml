@@ -64,7 +64,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: KAIST
         caption: 2022 - Current
         sub_title: Ph.D. Candidate in Bio and Brain Engineering
@@ -73,7 +73,7 @@ content:
           
           [Jong Chul Ye](https://scholar.google.com/citations?user=HNMjoNEAAAAJ&hl=en) and [Mooseok Jang](https://scholar.google.com/citations?user=QYPGDkAAAAAJ&hl=en)
 
-      - layout: left
+      - layout: top-middle
         title: KAIST
         caption: 2020 - 2022
         sub_title: M.S. in Bio and Brain Engineering
@@ -82,7 +82,7 @@ content:
           
           [Jong Chul Ye](https://scholar.google.com/citations?user=HNMjoNEAAAAJ&hl=en)
           
-      - layout: left
+      - layout: top-middle
         title: KAIST
         caption: 2015 - 2020
         sub_title: B.S. in Bio and Brain Engineering
