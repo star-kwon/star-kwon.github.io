@@ -89,7 +89,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models
+        title: "VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models"
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
