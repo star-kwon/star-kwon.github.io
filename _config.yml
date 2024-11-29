@@ -68,18 +68,24 @@ content:
       title: KAIST
       caption: 2022 - Current
       sub_title: Ph.D. Candidate in Bio and Brain Engineering
+      quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
       description: | # this will include new lines to allow paragraphs
         Advisor: Jong Chul Ye and Mooseok Jang
     - layout: left
       title: KAIST
       caption: 2020 - 2022
       sub_title: M.S. in Bio and Brain Engineering
+      quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
       description: | # this will include new lines to allow paragraphs
         Advisor: Jong Chul Ye
     - layout: left
       title: KAIST
       caption: 2015 - 2020
       sub_title: B.S. in Bio and Brain Engineering
+      quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
       description: | # this will include new lines to allow paragraphs
         Advisor: Yoonkee Nam
   
