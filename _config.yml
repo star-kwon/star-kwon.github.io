@@ -71,7 +71,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Advisor** 
           
-          Jong Chul Ye and Mooseok Jang
+          [Jong Chul Ye](https://scholar.google.com/citations?user=HNMjoNEAAAAJ&hl=en) and [Mooseok Jang](https://scholar.google.com/citations?user=QYPGDkAAAAAJ&hl=en)
 
       - layout: left
         title: KAIST
@@ -80,7 +80,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Advisor** 
           
-          Jong Chul Ye
+          [Jong Chul Ye](https://scholar.google.com/citations?user=HNMjoNEAAAAJ&hl=en)
           
       - layout: left
         title: KAIST
@@ -89,7 +89,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Advisor** 
           
-          Yoonkey Nam
+          [Yoonkey Nam](https://scholar.google.com/citations?user=KBYkyKwAAAAJ&hl=en)
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
