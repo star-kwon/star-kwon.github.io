@@ -64,8 +64,8 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
-        title: Harvard University
+      - layout: left
+        title: Korea Advanced Institute of Science and Technology (KAIST)
         caption: 2010 - 2013
         sub_title: BSc Computer Science
         description: | # this will include new lines to allow paragraphs
