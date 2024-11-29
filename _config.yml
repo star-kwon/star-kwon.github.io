@@ -70,14 +70,12 @@ content:
         sub_title: Ph.D. Candidate in Bio and Brain Engineering
         quote: >
           2022 - Current
-
       - layout: top-middle
         title: KAIST
         caption: "Advisor: Jong Chul Ye"
         sub_title: M.S. in Bio and Brain Engineering
         quote: >
           2020 - 2022
-          
       - layout: top-middle
         title: KAIST
         caption: "Advisor: Yoonkey Nam"
@@ -92,10 +90,21 @@ content:
         title: "VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models"
         link: https://vision-xl.github.io/
         description: | # this will include new lines to allow paragraphs
-          **Taesung Kwon** and J. C. Ye
+          **Taesung Kwon**, J. C. Ye
+
+          arXiv, 2024
           
           Solving HD video inverse problems using only latent diffusion models. Supporting wide-range ratio using SDXL.
+      - layout: left
+        title: "ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler"
+        link: https://vibid.github.io/
+        description: | # this will include new lines to allow paragraphs
+          S. Yang*, **Taesung Kwon***, J. C. Ye **(*co-first)**
 
+          arXiv, 2024
+          
+          State-of-the-art performance, efficiently generating high-quality, smooth videos between keyframes.
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
