@@ -97,7 +97,7 @@ content:
           Solving HD video inverse problems using only latent diffusion models. Supporting wide-range ratio using SDXL.
       - layout: left
         title: "ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler"
-        link: https://vibid.github.io/
+        link: https://vibidsampler.github.io/
         description: | # this will include new lines to allow paragraphs
           S. Yang\*, **Taesung Kwon\***, J. C. Ye **(*co-first)**
 
