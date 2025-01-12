@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   * Video Frame Interpolation
 
-  * Inverse Scattering in Optics
+  * Real-world Inverse Problems (Inverse Scattering in Optics)
   
   Also, I'm interested in computational imaging, and weakly- and self-supervised learning.
 
@@ -197,6 +197,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Conference reviewers**: CVPR, NeurIPS, ICLR, ICCV
+      - **Journal reviewers**: IEEE TCI
 
 # Footer
 footer_show_references: true
