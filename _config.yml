@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Taesung and I'm a third-year Ph.D. candidate in KAIST, advised by Prof. Jong Chul Ye and Prof. Mooseok Jang. My research focuses on artificial intelligence (AI), particularly in computer vision (CV) and its intersection with Diffusion models. I'm driven to leverage capabilities of diffuion models to solve wide-range of inverse problems.
+  Hi, my name's Taesung and I'm a fourth-year Ph.D. candidate in KAIST, advised by Prof. Jong Chul Ye and Prof. Mooseok Jang. My research focuses on artificial intelligence (AI), particularly in computer vision (CV) and its intersection with Diffusion models. I'm driven to leverage capabilities of diffuion models to solve wide-range of inverse problems.
 
   My work explores three key areas:
 
