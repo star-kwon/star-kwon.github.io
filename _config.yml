@@ -168,13 +168,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           **CVPRW, 2022**
           
-          Placed 9th out of 241 teams in a competition. Recovering hyperspectral information from JPEG-compressed RGB images.
+          Recovering hyperspectral information from JPEG-compressed RGB images.
       - layout: left
         title: "NTIRE 2022 Challenge on Night Photography Rendering"
         description: | # this will include new lines to allow paragraphs
           **CVPRW, 2022**
           
-          Placed 11th with 1,197 votes for visual preference, out of a total of 3,250 votes. Recovering the visual appearance of night photography.
+          Recovering the visual appearance of night photography.
 
   - title: Patents
     layout: text
@@ -190,14 +190,15 @@ content:
   - title: Awards and Honors
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **KAIST Scholarship**, KAIST, 2022-2024
+      - **KAIST Scholarship**, KAIST, 2022-2025
       - **Korean Government Scholarship**, KAIST, 2020-2021
 
   - title: Services
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Conference reviewers**: CVPR, NeurIPS, ICLR, ICCV
-      - **Journal reviewers**: IEEE TCI
+      - **Conference reviewers**: CVPR, ICLR, ECCV, ICML
+      - **Journal reviewers**: IEEE Transactions on Computational Imaging
+      - **Lab Manager**, BISPL, 2024
 
 # Footer
 footer_show_references: true
