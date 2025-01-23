@@ -101,7 +101,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           S. Yang\*, **Taesung Kwon\***, J. C. Ye **(*co-first)**
 
-          arXiv, 2024
+          **ICLR 2025**
           
           State-of-the-art performance, efficiently generating high-quality, smooth videos between keyframes.
       - layout: left
@@ -110,7 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Taesung Kwon**, J. C. Ye
 
-          arXiv, 2024
+          **ICLR 2025**
           
           Solving video inverse problems using only image diffusion models, with batch-consistent sampling stretagy.
       - layout: left
