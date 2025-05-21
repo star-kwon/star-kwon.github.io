@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Taesung and I'm a fourth-year Ph.D. candidate in KAIST, advised by Prof. Jong Chul Ye and Prof. Mooseok Jang.
-  Starting in May, I am joining Disney Research Studios in Zurich as a research intern.
+  Starting in May, I am joining **Disney Research Studios** in Zurich as a research intern.
   My research focuses on **computer vision (CV)** and its intersection with **generative models**, exploring their applications in solving inverse problems and enhancing image and video processing.
   My recent research aims to improve the **conditional generative process** by controlling the diffusion generative process. 
   Additionally, I explore methods to leverage **temporal correlations** to improve the performance of inverse problem solvers.
