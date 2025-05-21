@@ -48,7 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Taesung and I'm a fourth-year Ph.D. candidate in KAIST, advised by Prof. Jong Chul Ye and Prof. Mooseok Jang. 
+  Hi, my name's Taesung and I'm a fourth-year Ph.D. candidate in KAIST, advised by Prof. Jong Chul Ye and Prof. Mooseok Jang.
+  Starting in May, I am joining Disney Research Studios in Zurich as a research intern.
   My research focuses on **computer vision (CV)** and its intersection with **generative models**, exploring their applications in solving inverse problems and enhancing image and video processing.
   My recent research aims to improve the **conditional generative process** by controlling the diffusion generative process. 
   Additionally, I explore methods to leverage **temporal correlations** to improve the performance of inverse problem solvers.
@@ -88,12 +89,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: "Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model"
+        link: https://zero4dvid.github.io/
+        description: | # this will include new lines to allow paragraphs
+          J. Park, **Taesung Kwon**, J. C. Ye
+
+          arXiv, 2025
+          
+          Zero-shot 4D video generation using off-the-shelf video diffusion model.
+      - layout: left
         title: "VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models"
         link: https://vision-xl.github.io/
         description: | # this will include new lines to allow paragraphs
           **Taesung Kwon**, J. C. Ye
 
-          arXiv, 2024
+          arXiv, 2025
           
           Solving HD video inverse problems using only latent diffusion models. Supporting wide-range ratio using SDXL.
       - layout: left
@@ -197,7 +207,7 @@ content:
   - title: Services
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Conference reviewers**: CVPR, ICLR, ECCV, ICML
+      - **Conference reviewers**: CVPR, ICLR, ICCV, ECCV, ICML
       - **Journal reviewers**: IEEE Transactions on Computational Imaging
       - **Lab Manager**, BISPL, 2024
 
