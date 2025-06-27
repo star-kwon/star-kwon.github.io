@@ -85,6 +85,21 @@ content:
         quote: >
           2015 - 2020
 
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Disney Research
+        caption: "Advisor: Vinicius Azevedo"
+        sub_title: Research Internship @ Zürich
+        quote: >
+          2025.05 - Current
+      - layout: top-middle
+        title: ETH Zürich
+        sub_title: Visiting Researcher (Joint research program with Disney Research)
+        quote: >
+          2025.05 - Current
+
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
