@@ -118,7 +118,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Taesung Kwon**, J. C. Ye
 
-          arXiv, 2025
+          **ICCV 2025**
           
           Solving HD video inverse problems using only latent diffusion models. Supporting wide-range ratio using SDXL.
       - layout: left
@@ -145,7 +145,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Taesung Kwon\***, G. Song\*, Y. Kim, J. Kim, J. C. Ye, M. Jang **(*co-first)**
 
-          Submitted to TPAMI
+          Submitted to TPAMI (In 2nd revision)
           
           Video reconstruction through dynamic scattering layer using video diffusion models.
       - layout: left
