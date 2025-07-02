@@ -90,13 +90,14 @@ content:
     content:
       - layout: top-middle
         title: Disney Research
-        caption: "Advisor: Vinicius Azevedo"
+        caption: "Mentor: Vinicius Azevedo"
         sub_title: Research Internship @ Zürich
         quote: >
           2025.05 - Current
       - layout: top-middle
         title: ETH Zürich
-        sub_title: Visiting Researcher (Joint research program with Disney Research)
+        caption: "Joint research program with Disney Research"
+        sub_title: Visiting Researcher
         quote: >
           2025.05 - Current
 
