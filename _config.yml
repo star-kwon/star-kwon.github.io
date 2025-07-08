@@ -54,12 +54,12 @@ about_content: | # this will include new lines to allow paragraphs
   My recent research aims to improve the **conditional generative process** by controlling the diffusion generative process. 
   Additionally, I explore methods to leverage **temporal correlations** to improve the performance of inverse problem solvers.
 
-  My research spans three key areas:
+  My research spans three key areas, including but not limited to:
 
-  * **Generative Models**: Diffusion models for video inverse problems, video frame interpolation, and image editing.
+  * **Generative Models**: Diffusion models for video inverse problems, video frame interpolation, and image generation/editing.
 
-  * **Low-Level Vision**: Unsupervised/self-supervised denoising methods for images and videos.
-
+  * **Low-Level Vision**: Unsupervised and self-supervised denoising techniques for both images and videos.
+  
   * **Physics-Based Vision and Medical Imaging**: Applications to physical sciences (e.g., inverse scattering in optics) and medical imaging.
  
 content:
