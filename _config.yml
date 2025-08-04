@@ -141,12 +141,12 @@ content:
           
           Solving video inverse problems using only image diffusion models, with batch-consistent sampling stretagy.
       - layout: left
-        title: "Video Reconstruction Beyond Dynamic Scattering Medium"
+        title: "Video Diffusion Posterior Sampling for Seeing Beyond Dynamic Scattering Layers"
         link: https://github.com/star-kwon/VDPS
         description: | # this will include new lines to allow paragraphs
           **Taesung Kwon\***, G. Song\*, Y. Kim, J. Kim, J. C. Ye, M. Jang **(*co-first)**
 
-          Submitted to TPAMI (In 2nd revision)
+          **IEEE TPAMI**
           
           Video reconstruction through dynamic scattering layer using video diffusion models.
       - layout: left
@@ -164,7 +164,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           G. Kim, **Taesung Kwon**, J. C. Ye
 
-          **CVPR, 2022**
+          **CVPR 2022**
           
           Robust text-driven image manipulation using text-to-image diffusion models.
       - layout: left
@@ -173,7 +173,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           K. Kim, **Taesung Kwon**, J. C. Ye
 
-          **CVPR, 2022**
+          **CVPR 2022**
           
           Noise distribution and level adaptive denoising framework using Tweedie distribution and score matching.
       - layout: left
@@ -182,7 +182,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Taesung Kwon**, J. C. Ye
 
-          **IEEE TCI, 2021**
+          **IEEE TCI**
           
           Efficient CycleGAN framework for low-dose CT denoising.
       
@@ -193,13 +193,13 @@ content:
       - layout: left
         title: "NTIRE 2022 Spectral Recovery Challenge and Data Set"
         description: | # this will include new lines to allow paragraphs
-          **CVPRW, 2022**
+          **CVPRW 2022**
           
           Recovering hyperspectral information from JPEG-compressed RGB images.
       - layout: left
         title: "NTIRE 2022 Challenge on Night Photography Rendering"
         description: | # this will include new lines to allow paragraphs
-          **CVPRW, 2022**
+          **CVPRW 2022**
           
           Recovering the visual appearance of night photography.
 
@@ -210,7 +210,7 @@ content:
 
       J. C. Ye, **Taesung Kwon**
 
-      U.S. Patent Application, Filed, No. 17/848,689, 2022
+      U.S. Patent, Granted, No. 12,346,997, 2025
 
       Korean Patent, Granted, No. 10-2643601, 2024
       
