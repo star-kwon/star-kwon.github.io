@@ -226,10 +226,10 @@ content:
       - **KAIST Scholarship**, KAIST, 2022-2025
       - **Korean Government Scholarship**, KAIST, 2020-2021
 
-  - title: Media Coverage
-  layout: text
-  content: | # this will include new lines to allow paragraphs
-    - **TPAMI Research featured on YTN News (a major Korean news channel)**, 2025 [youtube](https://youtu.be/xi39viK9ozo?si=qHd42ChSkWjmeIn9)
+  - title: Media
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **TPAMI Research featured on YTN News (a major Korean news channel)**, 2025 [youtube](https://youtu.be/xi39viK9ozo?si=qHd42ChSkWjmeIn9)
 
   - title: Services
     layout: text
