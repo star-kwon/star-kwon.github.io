@@ -105,6 +105,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: "All Convolution, No Attention: Designing Diffusion with Convolutions"
+        description: | # this will include new lines to allow paragraphs
+          **Taesung Kwon**, L. Bianchi, L. Wittke, F. Watine, F. Carrara, J. C. Ye, R. Weber, V. C. Azevedo
+
+          To appear
+          
+          Fully convolutional diffusion model.
+      - layout: left
         title: "Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model"
         link: https://zero4dvid.github.io/
         description: | # this will include new lines to allow paragraphs
