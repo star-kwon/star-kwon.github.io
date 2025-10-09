@@ -50,15 +50,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Taesung and I'm a fourth-year Ph.D. candidate in KAIST, advised by Prof. Jong Chul Ye and Prof. Mooseok Jang.
   During my Ph.D., I was a research intern at Disney Research Studios in Zurich.
-  My research focuses on **computer vision (CV)** and its intersection with **generative models**, exploring their applications in solving inverse problems and enhancing image and video processing.
-  My recent research aims to improve the **conditional generative process** by controlling the diffusion generative process. 
-  Additionally, I explore methods to leverage **temporal correlations** to improve the performance of inverse problem solvers.
+  My research focuses on improving the conditional generative process by controlling the diffusion dynamics and designing efficient architectures.
+  In parallel, I investigate how temporal correlations can be exploited to enhance generative modeling and inverse problem solving.
 
-  My research spans three key areas, including but not limited to:
+  My recent research spans three key areas, including but not limited to:
 
   * **Generative Models**: Diffusion models for video inverse problems, video frame interpolation, and image generation/editing.
 
-  * **Low-Level Vision**: Unsupervised and self-supervised denoising techniques for both images and videos.
+  * **Efficient Generative Modeling**: Designing efficient architectures and training/sampling frameworks for diffusion models.
   
   * **Physics-Based Vision and Medical Imaging**: Applications to physical sciences (e.g., inverse scattering in optics) and medical imaging.
  
