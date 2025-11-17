@@ -104,7 +104,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: "All Convolution, No Attention: Designing Diffusion with Convolutions"
+        title: "Convolutional Diffusion Models"
         description: | # this will include new lines to allow paragraphs
           **Taesung Kwon**, L. Bianchi, L. Wittke, F. Watine, F. Carrara, J. C. Ye, R. Weber, V. C. Azevedo
 
@@ -226,6 +226,12 @@ content:
       J. C. Ye, S. Yang, **Taesung Kwon**
 
       Korean Patent, Filed, No. 10-2025-0114505, 2025
+      
+      - **Method and Apparatus for Solving Video Inverse Problem using Image Diffusion Models**
+
+      J. C. Ye, **Taesung Kwon**
+
+      Korean Patent, Filed, No. 10-2025-0171861, 2025
       
   - title: Awards and Honors
     layout: text
