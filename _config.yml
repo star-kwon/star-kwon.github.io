@@ -248,7 +248,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Conference reviewers**: CVPR, ICLR, ICCV, ECCV, ICML
-      - **Journal reviewers**: IEEE Transactions on Computational Imaging
+      - **Journal reviewers**: IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Computational Imaging
       - **Lab Manager**, BISPL, 2024
 
 # Footer
