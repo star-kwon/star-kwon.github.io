@@ -113,9 +113,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Taesung Kwon**, L. Bianchi, L. Wittke, F. Watine, F. Carrara, J. C. Ye, R. Weber, V. C. Azevedo
 
-          To appear
+          **CVPR 2026**
           
-          Fully convolutional diffusion model.
+          Fully convolutional diffusion model based on ConvNeXt.
       - layout: left
         title: "Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models"
         description: | # this will include new lines to allow paragraphs
@@ -130,7 +130,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           J. Park, **Taesung Kwon**, J. C. Ye
 
-          arXiv, 2026
+          arXiv, 2025
           
           Zero-shot 4D video generation using off-the-shelf video diffusion model.
       - layout: left
