@@ -48,11 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Taesung and I'm a fourth-year Ph.D. candidate in KAIST, advised by Prof. Jong Chul Ye and Prof. Mooseok Jang.
-  During my Ph.D., I was a research intern at Disney Research Studios in Zurich.
-  My research focuses on improving the conditional generative process by controlling the diffusion dynamics and designing efficient architectures.
-  In parallel, I investigate how temporal correlations can be exploited to enhance generative modeling and inverse problem solving.
-
+  Hi, I am Taesung, an [InnoCORE Postdoctoral Fellow](https://www.nature.com/naturecareers/employer/ba9b6a0c-bea2-4e0b-a630-40962f29cda4/kaist/hub) at KAIST.
+  I recently completed my Ph.D. at KAIST, where I was co-advised by Prof. Jong Chul Ye and Prof. Mooseok Jang. During my Ph.D., I also gained valuable industry experience as a research intern at Disney Research in Zurich. 
+  My research primarily focuses on improving the conditional generative process by controlling diffusion dynamics and designing efficient architectures. In parallel, I investigate how temporal correlations can be exploited to enhance generative modeling and solve inverse problems, particularly in tasks like video restoration.
+  
   My recent research spans three key areas, including but not limited to:
 
   * **Generative Models**: Diffusion models for video inverse problems, video frame interpolation, and image generation/editing.
@@ -68,9 +67,9 @@ content:
       - layout: top-middle
         title: KAIST
         caption: "Advisors: Jong Chul Ye and Mooseok Jang"
-        sub_title: Ph.D. Candidate in Bio and Brain Engineering
+        sub_title: Ph.D. in Bio and Brain Engineering
         quote: >
-          2022 - Current
+          2022 - 2026
       - layout: top-middle
         title: KAIST
         caption: "Advisor: Jong Chul Ye"
@@ -88,6 +87,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: InnoCORE Postdoc Fellow
+        caption: "Postdoc Advisor: Jong Chul Ye"
+        sub_title: LLM Innovation Research Center
+        quote: >
+          2026.03 - Current
+      - layout: top-middle
         title: Disney Research
         caption: "Mentor: Vinicius Azevedo"
         sub_title: Research Internship @ Zürich
@@ -104,7 +109,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: "Convolutional Diffusion Models"
+        title: "Reviving ConvNeXt for Efficient Convolutional Diffusion Models"
         description: | # this will include new lines to allow paragraphs
           **Taesung Kwon**, L. Bianchi, L. Wittke, F. Watine, F. Carrara, J. C. Ye, R. Weber, V. C. Azevedo
 
@@ -112,12 +117,20 @@ content:
           
           Fully convolutional diffusion model.
       - layout: left
+        title: "Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models"
+        description: | # this will include new lines to allow paragraphs
+          J. Lee, Y. Hong, **Taesung Kwon**, J. C. Ye
+
+          To appear
+          
+          Text-image alignment-guided score matching.
+      - layout: left
         title: "Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model"
         link: https://zero4dvid.github.io/
         description: | # this will include new lines to allow paragraphs
           J. Park, **Taesung Kwon**, J. C. Ye
 
-          arXiv, 2025
+          arXiv, 2026
           
           Zero-shot 4D video generation using off-the-shelf video diffusion model.
       - layout: left
@@ -249,7 +262,6 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **Conference reviewers**: CVPR, ICLR, ICCV, ECCV, ICML
       - **Journal reviewers**: IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Computational Imaging
-      - **Lab Manager**, BISPL, 2024
 
 # Footer
 footer_show_references: true
