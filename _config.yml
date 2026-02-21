@@ -119,7 +119,7 @@ content:
       - layout: left
         title: "Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models"
         description: | # this will include new lines to allow paragraphs
-          J. Lee, Y. Hong, **Taesung Kwon**, J. C. Ye
+          J. Lee\*, Y. Hong\*, **Taesung Kwon**, J. C. Ye
 
           To appear
           
