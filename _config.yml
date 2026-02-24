@@ -117,6 +117,15 @@ content:
           
           Fully convolutional diffusion model based on ConvNeXt.
       - layout: left
+        title: "Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model"
+        link: https://zero4dvid.github.io/
+        description: | # this will include new lines to allow paragraphs
+          J. Park, **Taesung Kwon**, J. C. Ye
+
+          **CVPR 2026** (Findings)
+          
+          Zero-shot 4D video generation using off-the-shelf video diffusion model.
+      - layout: left
         title: "Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models"
         description: | # this will include new lines to allow paragraphs
           J. Lee\*, Y. Hong\*, **Taesung Kwon**, J. C. Ye
@@ -124,15 +133,6 @@ content:
           To appear
           
           Text-image alignment-guided score matching.
-      - layout: left
-        title: "Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model"
-        link: https://zero4dvid.github.io/
-        description: | # this will include new lines to allow paragraphs
-          J. Park, **Taesung Kwon**, J. C. Ye
-
-          arXiv, 2025
-          
-          Zero-shot 4D video generation using off-the-shelf video diffusion model.
       - layout: left
         title: "VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models"
         link: https://vision-xl.github.io/
