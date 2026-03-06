@@ -19,7 +19,6 @@ I earned my M.S. and B.S. degrees in BBE at KAIST, advised by Prof. [Jong Chul Y
   Mentor: [Vinicius Azevedo](https://studios.disneyresearch.com/people/vinicius-da-costa-de-azevedo/)
   <br>
   May 2025 - Aug. 2025, Zürich, Switzerland
-
 - **ETH Zürich**, Visiting Researcher
   <br>
   Joint research program with Disney Research
@@ -192,7 +191,6 @@ Off-the-Shelf Video Diffusion Models</a></div>
       <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/gwang-kim/DiffusionCLIP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://replicate.com/gwang-kim/diffusionclip" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
-      <a href="https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Colab</a>
       <a href="https://github.com/gwang-kim/DiffusionCLIP" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
   <script>
   githubStars("gwang-kim/DiffusionCLIP", function(stars) {
@@ -231,7 +229,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/freecyclegan.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/efficientcyclegan.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TCI</abbr>
   </div>
   <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
