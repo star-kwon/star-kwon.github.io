@@ -38,11 +38,11 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 ## <b style="color:#F88017">Recent News</b>
 - **[2026.03]** I am selected as a recipient of Sejong Science Fellowship (500 million KRW / ~$350k).
 - **[2026.03]** I joined [KAIST AI](https://gsai.kaist.ac.kr/) as a Postdoctoral Researcher.
-- **[2026.02]** 2 papers (*FCDM* - main, *Zero4D* - findings) are accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
-- **[2025.08]** A paper (*VDPS*) is accepted to [TPAMI](https://www.computer.org/csdl/journal/tp).
-- **[2025.06]** A paper (*VISION-XL*) is accepted to [ICCV 2025](https://iccv.thecvf.com/).
+- **[2026.02]** 2 papers (*FCDM* - main, [Zero4D](https://arxiv.org/abs/2503.22622) - findings) are accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
+- **[2025.08]** A paper ([VDPS](https://ieeexplore.ieee.org/document/11123732)) is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
+- **[2025.06]** A paper ([VISION-XL](https://arxiv.org/abs/2412.00156)) is accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - **[2025.05]** I joined [Disney Research](https://studios.disneyresearch.com/) as a Research Intern.
-- **[2025.01]** 2 papers (*SVI*, *ViBiDSampler*) are accepted to [ICLR 2025](https://iclr.cc/Conferences/2025/).
+- **[2025.01]** 2 papers ([SVI](https://arxiv.org/abs/2409.02574), [ViBiDSampler*](https://arxiv.org/abs/2410.05651)) are accepted to [ICLR 2025](https://iclr.cc/Conferences/2025/).
 
 ## Research
 
@@ -56,7 +56,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
     <img src="./assets/research/fcdm.jpg" class="teaser img-fluid z-depth-1 loop">
     <abbr class="badge">CVPR</abbr>
   </div>
-  <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="fcdm" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Reviving ConvNeXt for Efficient Convolutional Diffusion Models</div>
       <div class="author"><strong>Taesung Kwon</strong>, L. Bianchi, L. Wittke, F. Watine, F. Carrara, J. C. Ye, R. Weber, V. Azevedo</div>
     <div class="periodical"><em><strong>CVPR 2026</strong></em>
@@ -74,7 +74,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
     <img src="./assets/research/zero4d_frog.gif" class="teaser img-fluid z-depth-1 loop">
     <abbr class="badge">CVPR Findings</abbr>
   </div>
-  <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zero4d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2503.22622">Zero4D: Training-Free 4D Video Generation From Single Video Using
 Off-the-Shelf Video Diffusion Models</a></div>
       <div class="author">J. Park, <strong>Taesung Kwon</strong>, J. C. Ye</div>
@@ -96,8 +96,8 @@ Off-the-Shelf Video Diffusion Models</a></div>
     <img src="./assets/research/vision-xl.jpg" class="teaser img-fluid z-depth-1 loop">
     <abbr class="badge">ICCV</abbr>
   </div>
-  <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Kwon_VISION-XL_High_Definition_Video_Inverse_Problem_Solver_using_Latent_Image_ICCV_2025_paper.pdf">VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models</a></div>
+  <div id="vision-xl" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2412.00156">VISION-XL: High Definition Video Inverse Problem Solver using Latent Diffusion Models</a></div>
       <div class="author"><strong>Taesung Kwon</strong>, J. C. Ye</div>
     <div class="periodical"><em><strong>ICCV 2025</strong></em>
       </div>
@@ -118,7 +118,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
     <img src="./assets/research/vibidsampler.jpg" class="teaser img-fluid z-depth-1 loop">
     <abbr class="badge">ICLR</abbr>
   </div>
-  <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="vibidsampler" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2410.05651">ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler</a></div>
       <div class="author">S. Yang*, <strong>Taesung Kwon*</strong>, J. C. Ye <strong>(*co-first)</strong> </div>
       <div class="periodical"><em><strong>ICLR 2025</strong></em>
@@ -140,7 +140,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
     <img src="./assets/research/svi.jpg" class="teaser img-fluid z-depth-1 loop">
     <abbr class="badge">ICLR</abbr>
   </div>
-  <div id="beyondscene" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="svi" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2409.02574">Solving Video Inverse Problems Using Image Diffusion Models</a></div>
       <div class="author"><strong>Taesung Kwon</strong>, J. C. Ye</div>
       <div class="periodical"><em><strong>ICLR 2025</strong></em>
@@ -160,12 +160,12 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/vdps.png" class="teaser img-fluid z-depth-1 ">
-    <abbr class="badge">TPAMI</abbr>
+    <abbr class="badge">IEEE TPAMI</abbr>
   </div>
-  <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="vdps" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/11123732">Video Diffusion Posterior Sampling for Seeing Beyond Dynamic Scattering Layers</a></div>
       <div class="author"><strong>Taesung Kwon*</strong>, G. Song*, Y. Kim, J. Kim, J. C. Ye, M. Jang <strong>(*co-first)</strong> </div>
-      <div class="periodical"><em><strong>IEEE TPAMI</strong></em>
+      <div class="periodical"><em><strong>IEEE Transactions on Pattern Analysis and Machine Intelligence</strong></em>
       </div>
     <div class="links">
       <a href="https://github.com/star-kwon/VDPS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -211,7 +211,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
     <img src="./assets/research/adaptivenoise2score.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
-  <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="adaptivenoise2score" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Noise_Distribution_Adaptive_Self-Supervised_Image_Denoising_Using_Tweedie_Distribution_and_CVPR_2022_paper.pdf">Noise Distribution Adaptive Self-Supervised Image Denoising using Tweedie Distribution and Score Matching</a></div>
       <div class="author">K. Kim, <strong>Taesung Kwon</strong>, J. C. Ye</div>
       <div class="periodical"><em><strong>CVPR 2022</strong></em>
@@ -230,12 +230,12 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/efficientcyclegan.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TCI</abbr>
+    <abbr class="badge">IEEE TCI</abbr>
   </div>
-  <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="cycle-free" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9622180">Cycle-free CycleGAN using Invertible Generator for Unsupervised Low-Dose CT Denoising</a></div>
       <div class="author"><strong>Taesung Kwon</strong>, J. C. Ye</div>
-      <div class="periodical"><em><strong>IEEE TCI</strong></em>
+      <div class="periodical"><em><strong>IEEE Transactions on Computational Imaging</strong></em>
       </div>
     <div class="links">
       <a href="https://github.com/star-kwon/TCI_CyclefreeCycleGAN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
