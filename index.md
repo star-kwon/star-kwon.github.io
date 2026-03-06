@@ -42,7 +42,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 - **[2025.08]** A paper ([VDPS](https://ieeexplore.ieee.org/document/11123732)) is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
 - **[2025.06]** A paper ([VISION-XL](https://arxiv.org/abs/2412.00156)) is accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - **[2025.05]** I joined [Disney Research](https://studios.disneyresearch.com/) as a Research Intern.
-- **[2025.01]** 2 papers ([SVI](https://arxiv.org/abs/2409.02574), [ViBiDSampler*](https://arxiv.org/abs/2410.05651)) are accepted to [ICLR 2025](https://iclr.cc/Conferences/2025/).
+- **[2025.01]** 2 papers ([SVI](https://arxiv.org/abs/2409.02574), [ViBiDSampler](https://arxiv.org/abs/2410.05651)) are accepted to [ICLR 2025](https://iclr.cc/Conferences/2025/).
 
 ## Research
 
