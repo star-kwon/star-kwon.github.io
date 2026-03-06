@@ -183,7 +183,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="diffusionclip" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf">DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2110.02711">DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation</a></div>
       <div class="author">G. Kim, <strong>Taesung Kwon</strong>, J. C. Ye </div>
       <div class="periodical"><em><strong>CVPR 2022, KCCV 2022 (Oral)</strong></em>
       </div>
@@ -212,7 +212,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
     <abbr class="badge">CVPR</abbr>
   </div>
   <div id="adaptivenoise2score" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Noise_Distribution_Adaptive_Self-Supervised_Image_Denoising_Using_Tweedie_Distribution_and_CVPR_2022_paper.pdf">Noise Distribution Adaptive Self-Supervised Image Denoising using Tweedie Distribution and Score Matching</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2112.03696">Noise Distribution Adaptive Self-Supervised Image Denoising using Tweedie Distribution and Score Matching</a></div>
       <div class="author">K. Kim, <strong>Taesung Kwon</strong>, J. C. Ye</div>
       <div class="periodical"><em><strong>CVPR 2022</strong></em>
       </div>
