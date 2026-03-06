@@ -208,7 +208,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/adaptivenoise2score.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/adaptivenoise2score.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
   <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -229,7 +229,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/efficientcyclegan.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/efficientcyclegan.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TCI</abbr>
   </div>
   <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
