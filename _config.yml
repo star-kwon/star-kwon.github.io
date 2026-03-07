@@ -9,8 +9,8 @@ cv_link: https://drive.google.com/file/d/1D8gQQAlGwzJtGMga9WBuGMiDYdbndsu3/view?
 linkedin: https://www.linkedin.com/in/star-kwon/
 avatar: ./assets/img/tsk.jpg
 google_analytics: UA-111540567-4
-favicon: ./assets/img/star.png
-favicon_dark: ./assets/img/star.png
+favicon: ./assets/img/stars.png
+favicon_dark: ./assets/img/stars.png
 description: Taesung's blog
 canonical: https://star-kwon.github.io/
 remote_theme: star-kwon/star-kwon.github.io
