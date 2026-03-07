@@ -30,14 +30,14 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 
 ## Grants
 - **Sejong Science Fellowship** | *2026 – 2031*
-  - **Role:** Principal Investigator (PI)
-  - **Funder:** Ministry of Science and ICT (MSIT), Republic of Korea
-  - **Topic:** Efficient generative modeling
-  - **Amount:** KRW 500,000,000 (~ USD 350,000)
+  <br>**Role:** Principal Investigator (PI)
+  <br>**Funder:** Ministry of Science and ICT (MSIT), Republic of Korea
+  <br>**Topic:** Efficient generative modeling
+  <br>**Amount:** KRW 500,000,000 (~ USD 350,000)
 
 
 ## <b style="color:#F88017">News</b>
-- **[2026.03]** I secured a 5-year research grant (KRW 500M / ~USD 350K) through the Sejong Science Fellowship.
+- **[2026.03]** I secured a 5-year research grant as a PI (Sejong Science Fellowship).
 - **[2026.03]** I joined [KAIST AI](https://gsai.kaist.ac.kr/) as a Postdoctoral Researcher.
 - **[2026.02]** 2 papers (*FCDM* - main, [Zero4D](https://arxiv.org/abs/2503.22622) - findings) are accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
 - **[2025.08]** A paper ([VDPS](https://ieeexplore.ieee.org/document/11123732)) is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
@@ -293,7 +293,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
 ## Media
 - **Featured on YTN News:** TPAMI research on zero-shot video restoration, 2025
 <br>
-<a href="https://www.youtube.com/watch?v=xi39viK9ozo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">YouTube Video</a>
+<a href="https://www.youtube.com/watch?v=xi39viK9ozo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">YouTube</a>
 
 
 
