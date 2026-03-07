@@ -30,10 +30,8 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 
 ## Grants
 - **Sejong Science Fellowship** | *2026 – 2031*
-  <br>**Role:** Principal Investigator (PI)
-  <br>**Funder:** Ministry of Science and ICT (MSIT), Republic of Korea
-  <br>**Topic:** Efficient generative modeling
-  <br>**Amount:** KRW 500,000,000 (~ USD 350,000)
+  <br>Principal Investigator (PI)
+  <br>KRW 500,000,000 (~ USD 350,000)
 
 
 ## <b style="color:#F88017">News</b>
