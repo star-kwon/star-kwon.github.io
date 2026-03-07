@@ -17,7 +17,7 @@ I earned my M.S. and B.S. degrees in BBE at KAIST, advised by Prof. [Jong Chul Y
   <br>Mentor: [Vinicius Azevedo](https://studios.disneyresearch.com/people/vinicius-da-costa-de-azevedo/)
   <br>May 2025 - Aug 2025, Zürich, Switzerland
 - **ETH Zürich**, Visiting Researcher
-  <br>Joint research program with Disney Research
+  <br>[Joint research program](https://studios.disneyresearch.com/outreach/) with Disney Research
   <br>May 2025 - Aug 2025, Zürich, Switzerland
 
 
@@ -37,7 +37,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 ## <b style="color:#F88017">News</b>
 - **[2026.03]** 2 papers (*FCDM* - main, [Zero4D](https://arxiv.org/abs/2503.22622) - findings) are accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
 - **[2026.03]** I joined [KAIST AI](https://gsai.kaist.ac.kr/) as a Postdoctoral Researcher.
-- **[2026.02]** I secured a 5-year research grant as a PI (Sejong Science Fellowship).
+- **[2026.02]** I secured a 5-year research grant as a PI ([Sejong Science Fellowship](https://eng.nrf.re.kr/page/5301bb32-ad33-4031-8de1-a8b3275956a2?bizNo=1&uprBizNos=178,6,1)).
 - **[2025.08]** A paper ([VDPS](https://ieeexplore.ieee.org/document/11123732)) is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
 - **[2025.06]** A paper ([VISION-XL](https://arxiv.org/abs/2412.00156)) is accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - **[2025.05]** I joined [Disney Research](https://studios.disneyresearch.com/) as a Research Intern.
