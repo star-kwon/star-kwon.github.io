@@ -71,7 +71,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/zero4d_frog.gif" class="teaser img-fluid z-depth-1 loop">
-    <abbr class="badge">CVPR Findings</abbr>
+    <abbr class="badge">CVPR</abbr>
   </div>
   <div id="zero4d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2503.22622">Zero4D: Training-Free 4D Video Generation From Single Video Using
@@ -252,33 +252,23 @@ Off-the-Shelf Video Diffusion Models</a></div>
 
 - **Image Generation Using Convolution Diffusion Models**
   <br>
-  **Taesung Kwon**, L. Bianchi, R. Weber, L. Wittke, F. Watine, V. Azevedo
-  <br>
   U.S. Patent, Filed, No. 19,449,217, 2026
 
 
 - **Method and Apparatus for Video Restoration Beyond Dynamic Scattering Layers Using Video Diffusion Posterior Sampling**
   <br>
-  M. Jang, J. C. Ye, **Taesung Kwon**, G. Song
-  <br>
   Korean Patent, Filed, No. 10-2026-0031241, 2026
 
 - **Method and Apparatus for Generating Intermediate Video Frames via Bidirectional Sampling**
-  <br>
-  J. C. Ye, S. Yang, **Taesung Kwon**
   <br>
   Korean Patent, Filed, No. 10-2025-0114505, 2025
 
 
 - **Method and Apparatus for Solving Video Inverse Problem using Image Diffusion Models**
   <br>
-  J. C. Ye, **Taesung Kwon**
-  <br>
   Korean Patent, Filed, No. 10-2025-0171861, 2025
 
 - **Method and Apparatus for Low-Dose X-Ray Computed Tomography Image Processing Based on Efficient Unsupervised Learning Using Invertible Neural Network**
-  <br>
-  J. C. Ye, **Taesung Kwon**
   <br>
   U.S. Patent, Granted, No. 12,346,997, 2025
   <br>
