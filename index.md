@@ -4,27 +4,21 @@ layout: homepage
 
 ## Welcome!
 I am a Postdoctoral Researcher at the Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST).
-Currently, I am supported by the Sejong Science Fellowship (500 million KRW / ~$350k) to lead research on efficient generative modeling.
+Currently, I am leading research on efficient generative modeling supported by the Sejong Science Fellowship (KRW 500M / USD 350K).
 I completed my Ph.D. in Bio and Brain Engineering (BBE) at KAIST, co-advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html) and Prof. [Mooseok Jang](https://mooolab.kaist.ac.kr/People.html).
 I earned my M.S. and B.S. degrees in BBE at KAIST, advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html) and Prof. [Yoonkey Nam](https://neuros.kaist.ac.kr/yoonkeynam.html), respectively.
 
-## Experience
-- **KAIST AI**, [InnoCORE](https://www.nature.com/naturecareers/employer/ba9b6a0c-bea2-4e0b-a630-40962f29cda4/kaist/hub) Postdoctoral Reseacher
-  <br>
-  Advisor: Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html)
-  <br>
-  Mar 2026 - Current, Seoul, Korea
-- **Disney Research**, Research Intern
-  <br>
-  Mentor: [Vinicius Azevedo](https://studios.disneyresearch.com/people/vinicius-da-costa-de-azevedo/)
-  <br>
-  May 2025 - Aug. 2025, Zürich, Switzerland
-- **ETH Zürich**, Visiting Researcher
-  <br>
-  Joint research program with Disney Research
-  <br>
-  May 2025 - Aug. 2025, Zürich, Switzerland
 
+## Experience
+- **KAIST AI**, [InnoCORE](https://www.nature.com/naturecareers/employer/ba9b6a0c-bea2-4e0b-a630-40962f29cda4/kaist/hub) Postdoctoral Researcher
+  <br>Advisor: Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html)
+  <br>Mar 2026 - Present, Seoul, Korea
+- **Disney Research**, Research Intern
+  <br>Mentor: [Vinicius Azevedo](https://studios.disneyresearch.com/people/vinicius-da-costa-de-azevedo/)
+  <br>May 2025 - Aug 2025, Zürich, Switzerland
+- **ETH Zürich**, Visiting Researcher
+  <br>Joint research program with Disney Research
+  <br>May 2025 - Aug 2025, Zürich, Switzerland
 
 
 ## Research Interests
@@ -34,9 +28,16 @@ My research aims to advance **efficient generative modeling** for **sustainable 
   - **Generative Priors as Spatial Intelligence:** Leveraging generative models to solve diverse problems, such as video restoration, video interpolation, and 4D video generation.
 
 
+## Grants
+- **Sejong Science Fellowship** | *2026 – 2031*
+  - **Role:** Principal Investigator (PI)
+  - **Funder:** Ministry of Science and ICT (MSIT), Republic of Korea
+  - **Topic:** Efficient generative modeling
+  - **Amount:** KRW 500,000,000 (~ USD 350,000)
 
-## <b style="color:#F88017">Recent News</b>
-- **[2026.03]** I am selected as a recipient of Sejong Science Fellowship (500 million KRW / ~$350k).
+
+## <b style="color:#F88017">News</b>
+- **[2026.03]** I secured a 5-year research grant (KRW 500M / ~USD 350K) through the Sejong Science Fellowship.
 - **[2026.03]** I joined [KAIST AI](https://gsai.kaist.ac.kr/) as a Postdoctoral Researcher.
 - **[2026.02]** 2 papers (*FCDM* - main, [Zero4D](https://arxiv.org/abs/2503.22622) - findings) are accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
 - **[2025.08]** A paper ([VDPS](https://ieeexplore.ieee.org/document/11123732)) is accepted to [IEEE TPAMI](https://www.computer.org/csdl/journal/tp).
@@ -44,7 +45,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 - **[2025.05]** I joined [Disney Research](https://studios.disneyresearch.com/) as a Research Intern.
 - **[2025.01]** 2 papers ([SVI](https://arxiv.org/abs/2409.02574), [ViBiDSampler](https://arxiv.org/abs/2410.05651)) are accepted to [ICLR 2025](https://iclr.cc/Conferences/2025/).
 
-## Research
+## Publications
 
 <div class="publications">
 <ol class="bibliography">
@@ -285,22 +286,14 @@ Off-the-Shelf Video Diffusion Models</a></div>
   <br>
   Korean Patent, Granted, No. 10-2643601, 2024
 
-
-
-## Awards and Honors
-
-- **Sejong Science Fellowship ($350,000)**, National Research Foundation of Korea, 2026 - 2031
-- **KAIST Scholarship**, KAIST, 2022 - 2025
-- **Korean Government Scholarship**, KAIST, 2020 - 2021
-  
-
 ## Services
-- **Conference reviewers:** CVPR, CVPRW, ICCV, ECCV, ICLR, ICML
+- **Conference Reviewers:** CVPR, ICCV, ECCV, ICLR, ICML, ACM MM
 - **Journal Reviewers:** IEEE TPAMI, IEEE TCI
 
 ## Media
 - **Featured on YTN News:** TPAMI research on zero-shot video restoration, 2025
 <br>
-[Youtube](https://www.youtube.com/watch?v=xi39viK9ozo)
+<a href="https://www.youtube.com/watch?v=xi39viK9ozo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">YouTube Video</a>
+
 
 
