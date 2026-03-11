@@ -92,7 +92,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/vision-xl.jpg" class="teaser img-fluid z-depth-1 loop">
+    <img src="./assets/research/vision-xl.gif" class="teaser img-fluid z-depth-1 loop">
     <abbr class="badge">ICCV</abbr>
   </div>
   <div id="vision-xl" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -136,7 +136,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/svi.jpg" class="teaser img-fluid z-depth-1 loop">
+    <img src="./assets/research/svi.gif" class="teaser img-fluid z-depth-1 loop">
     <abbr class="badge">ICLR</abbr>
   </div>
   <div id="svi" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -178,7 +178,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/diffusionclip.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/diffusionclip.jpg" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="diffusionclip" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
