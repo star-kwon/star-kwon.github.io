@@ -35,7 +35,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 
 
 ## <b style="color:#F88017">News</b>
-- **[2026.03]** Our two papers (*FCDM* - main, [Zero4D](https://arxiv.org/abs/2503.22622) - findings) have been accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
+- **[2026.03]** Our two papers ([FCDM](https://arxiv.org/abs/2603.09408) - main, [Zero4D](https://arxiv.org/abs/2503.22622) - findings) have been accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
 - **[2026.03]** I joined [KAIST AI](https://gsai.kaist.ac.kr/) as a Postdoctoral Researcher.
 - **[2026.02]** I secured a 5-year research grant as a PI ([Sejong Science Fellowship](https://eng.nrf.re.kr/page/5301bb32-ad33-4031-8de1-a8b3275956a2?bizNo=1&uprBizNos=178,6,1)).
 - **[2025.12]** Our paper ([VDPS](https://ieeexplore.ieee.org/document/11123732)) has been published in [IEEE TPAMI](https://www.computer.org/csdl/journal/tp) (IF: 18.6).
@@ -56,13 +56,14 @@ My research aims to advance **efficient generative modeling** for **sustainable 
     <abbr class="badge">CVPR</abbr>
   </div>
   <div id="fcdm" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Reviving ConvNeXt for Efficient Convolutional Diffusion Models</div>
+      <div class="title"><a href="https://arxiv.org/abs/2603.09408">Reviving ConvNeXt for Efficient Convolutional Diffusion Models</a></div>
       <div class="author"><strong>Taesung Kwon</strong>, L. Bianchi, L. Wittke, F. Watine, F. Carrara, J. C. Ye, R. Weber, V. Azevedo</div>
     <div class="periodical"><em><strong>CVPR 2026</strong></em>
       </div>
-    <!-- <div class="links">
-      <a href="https://arxiv.org/pdf/XXXX.XXXXX" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div> -->
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2603.09408" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/star-kwon/FCDM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
   </div>
 </div>
 </li>
@@ -114,7 +115,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/vibidsampler.jpg" class="teaser img-fluid z-depth-1 loop">
+    <img src="./assets/research/vibidsampler.gif" class="teaser img-fluid z-depth-1 loop">
     <abbr class="badge">ICLR</abbr>
   </div>
   <div id="vibidsampler" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -158,7 +159,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/vdps.png" class="teaser img-fluid z-depth-1 ">
+    <img src="./assets/research/vdps.gif" class="teaser img-fluid z-depth-1 ">
     <abbr class="badge">IEEE TPAMI</abbr>
   </div>
   <div id="vdps" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
