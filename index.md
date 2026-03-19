@@ -260,6 +260,10 @@ Off-the-Shelf Video Diffusion Models</a></div>
   <br>
   Korean Patent, Filed, No. 10-2026-0031241, 2026
 
+- **Method and Apparatus for High-Resolution Video Restoration Using Latent Image Diffusion Models**
+  <br>
+  Korean Patent, Filed, No. 10-2026-0049062, 2026
+
 - **Method and Apparatus for Generating Intermediate Video Frames via Bidirectional Sampling**
   <br>
   Korean Patent, Filed, No. 10-2025-0114505, 2025
