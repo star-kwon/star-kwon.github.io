@@ -280,7 +280,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
   Korean Patent, Granted, No. 10-2643601, 2024
 
 ## Services
-- **Conference Reviewers:** CVPR, ICCV, ECCV, ICLR, ICML, ACM MM
+- **Conference Reviewers:** CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM MM
 - **Journal Reviewers:** IEEE TPAMI, IEEE TCI
 
 ## Media
