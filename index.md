@@ -3,20 +3,19 @@ layout: homepage
 ---
 
 ## Welcome!
-I am a Postdoctoral Researcher at the Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST).
+I am a Postdoctoral Researcher at KAIST AI.
 Currently, I am leading research on efficient generative modeling supported by the Sejong Science Fellowship (KRW 500M / USD 350K).
-I completed my Ph.D. in Bio and Brain Engineering (BBE) at KAIST, co-advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html) and Prof. [Mooseok Jang](https://mooolab.kaist.ac.kr/People.html).
-I earned my M.S. and B.S. degrees in BBE at KAIST, advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html) and Prof. [Yoonkey Nam](https://neuros.kaist.ac.kr/yoonkeynam.html), respectively.
+I received my Ph.D., M.S., and B.S. in the Dept. of Bio and Brain Engineering from KAIST. During my Ph.D., I was co-advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html) and Prof. [Mooseok Jang](https://mooolab.kaist.ac.kr/People.html), and I completed my M.S. advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html).
 
 
 ## Experience
 - **KAIST AI**, [InnoCORE](https://www.nature.com/naturecareers/employer/ba9b6a0c-bea2-4e0b-a630-40962f29cda4/kaist/hub) Postdoctoral Researcher
   <br>Advisor: Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html)
   <br>Mar 2026 - Present, Seoul, Korea
-- **Disney Research**, Research Intern
+- **Disney Research, ML Group**, Research Intern
   <br>Mentor: [Vinicius Azevedo](https://studios.disneyresearch.com/people/vinicius-da-costa-de-azevedo/)
   <br>May 2025 - Aug 2025, Zürich, Switzerland
-- **ETH Zürich**, Visiting Researcher
+- **ETH Zürich, Dept. of Computer Science**, Visiting Researcher
   <br>[Joint research program](https://studios.disneyresearch.com/outreach/) with Disney Research
   <br>May 2025 - Aug 2025, Zürich, Switzerland
 
