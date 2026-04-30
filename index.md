@@ -57,7 +57,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
   <div id="fcdm" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models</div>
       <div class="author">J. Lee, Y. Hong, <strong>Taesung Kwon</strong>, J. C. Ye</div>
-    <div class="periodical"><em><strong>ICML 2026 Highlight</strong></em>
+    <div class="periodical"><em><strong>ICML 2026 (Highlight)</strong></em>
       </div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2603.09408" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -96,7 +96,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
       <div class="title"><a href="https://arxiv.org/abs/2503.22622">Zero4D: Training-Free 4D Video Generation From Single Video Using
 Off-the-Shelf Video Diffusion Models</a></div>
       <div class="author">J. Park, <strong>Taesung Kwon</strong>, J. C. Ye</div>
-    <div class="periodical"><em><strong>CVPR 2026 Findings</strong></em>
+    <div class="periodical"><em><strong>CVPR 2026 (Findings)</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2503.22622" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
