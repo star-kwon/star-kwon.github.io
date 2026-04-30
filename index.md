@@ -34,7 +34,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 
 
 ## <b style="color:#F88017">News</b>
-- **[2026.05]** Our paper AGSM has been accepted to [ICML 2026](https://icml.cc/) as a Highlight paper.
+- **[2026.05]** Our paper (AGSM) has been accepted to [ICML 2026](https://icml.cc/) as a Highlight paper.
 - **[2026.03]** Our two papers ([FCDM](https://arxiv.org/abs/2603.09408) - main, [Zero4D](https://arxiv.org/abs/2503.22622) - findings) have been accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
 - **[2026.03]** I joined [KAIST AI](https://gsai.kaist.ac.kr/) as a Postdoctoral Researcher.
 - **[2026.02]** I secured a 5-year research grant as a PI ([Sejong Science Fellowship](https://eng.nrf.re.kr/page/5301bb32-ad33-4031-8de1-a8b3275956a2?bizNo=1&uprBizNos=178,6,1)).
