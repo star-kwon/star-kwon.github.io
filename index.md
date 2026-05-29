@@ -34,7 +34,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 
 
 ## <b style="color:#F88017">News</b>
-- **[2026.05]** Our paper (AGSM) has been accepted to [ICML 2026](https://icml.cc/) as a Highlight paper.
+- **[2026.05]** Our paper ([AGSM](https://arxiv.org/abs/2605.30038)) has been accepted to [ICML 2026](https://icml.cc/) as a Highlight paper.
 - **[2026.03]** Our two papers ([FCDM](https://arxiv.org/abs/2603.09408) - main, [Zero4D](https://arxiv.org/abs/2503.22622) - findings) have been accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
 - **[2026.03]** I joined [KAIST AI](https://gsai.kaist.ac.kr/) as a Postdoctoral Researcher.
 - **[2026.02]** I secured a 5-year research grant as a PI ([Sejong Science Fellowship](https://eng.nrf.re.kr/page/5301bb32-ad33-4031-8de1-a8b3275956a2?bizNo=1&uprBizNos=178,6,1)).
@@ -55,14 +55,14 @@ My research aims to advance **efficient generative modeling** for **sustainable 
     <abbr class="badge">ICML</abbr>
   </div>
   <div id="fcdm" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models</div>
+      <div class="title"><a href="https://arxiv.org/abs/2605.30038">Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models</a></div>
       <div class="author">J. Lee, Y. Hong, <strong>Taesung Kwon</strong>, J. C. Ye</div>
     <div class="periodical"><em><strong>ICML 2026 (Highlight)</strong></em>
       </div>
-    <!-- <div class="links">
-      <a href="https://arxiv.org/pdf/2603.09408" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/star-kwon/FCDM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div> -->
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2605.30038" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://jaayeon.github.io/AGSM/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+    </div>
   </div>
 </div>
 </li>
