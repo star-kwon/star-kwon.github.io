@@ -276,26 +276,28 @@ Off-the-Shelf Video Diffusion Models</a></div>
 
 - **Method and Apparatus for Video Restoration Beyond Dynamic Scattering Layers Using Video Diffusion Posterior Sampling**
   <br>
-  Korean Patent App. No. 10-2026-0031241, 2026
+  KR Patent App. No. 10-2026-0031241, 2026
 
 - **Method and Apparatus for High-Resolution Video Restoration Using Latent Image Diffusion Models**
   <br>
-  Korean Patent App. No. 10-2026-0049062, 2026
+  KR Patent App. No. 10-2026-0049062, 2026
+  <br>
+  PCT App. No. PCT/KR2026/007929, 2026
 
 - **Method and Apparatus for Generating Intermediate Video Frames via Bidirectional Sampling**
   <br>
-  Korean Patent App. No. 10-2025-0114505, 2025
+  KR Patent App. No. 10-2025-0114505, 2025
 
 
 - **Method and Apparatus for Solving Video Inverse Problem using Image Diffusion Models**
   <br>
-  Korean Patent App. No. 10-2025-0171861, 2025
+  KR Patent App. No. 10-2025-0171861, 2025
 
 - **Method and Apparatus for Low-Dose X-Ray Computed Tomography Image Processing Based on Efficient Unsupervised Learning Using Invertible Neural Network**
   <br>
   U.S. Patent No. 12,346,997, 2025
   <br>
-  Korean Patent No. 10-2643601, 2024
+  KR Patent No. 10-2643601, 2024
 
 ## Services
 - **Conference Reviewers:** CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM MM
