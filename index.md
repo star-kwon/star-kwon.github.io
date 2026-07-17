@@ -24,7 +24,7 @@ I received my Ph.D., M.S., and B.S. in the Dept. of Bio and Brain Engineering fr
 My research aims to advance **efficient generative modeling** for **sustainable spatial intelligence**. I pursue this through two core directions:
 
   - **Efficient Generative Modeling:** Designing efficient frameworks for generative models.
-  - **Generative Priors as Spatial Intelligence:** Leveraging generative models to solve diverse problems, such as video restoration, video interpolation, and 4D video generation.
+  - **Generative Priors as Spatial Intelligence:** Leveraging generative models to solve visual and scientific problems, such as video restoration, video interpolation, 4D/video generation, and scientific inverse problems (e.g., imaging through scattering media).
 
 
 ## Grants
