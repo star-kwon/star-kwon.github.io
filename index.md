@@ -25,7 +25,8 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 
   - **Efficient Generative Modeling:** Designing efficient and scalable frameworks for generative models.
   - **Generative Priors as Spatial Intelligence:** Leveraging generative models to solve visual and scientific problems (e.g., imaging through scattering media).
-  - **Spatial Alignment for Embodied AI:** Injecting spatial intelligence into vision-language(-action) models with representation alignment and generative priors for robust robot manipulation.
+  - **Efficient Embodied Deployment:** Making vision-language-action and
+world-action models fast and reliable enough for real-time robot manipulation.
 
 ## Grants
 - **Sejong Science Fellowship** | *2026 – 2031*
