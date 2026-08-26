@@ -274,6 +274,10 @@ Off-the-Shelf Video Diffusion Models</a></div>
   <br>
   U.S. Patent App. No. 19,449,217, 2026
 
+- **Method and Apparatus for Accelerating Video Restoration Using Autoregressive Diffusion Models**
+  <br>
+  KR Patent App. No. 10-2026-0161283, 2026
+
 - **Method and Apparatus for Video Generation Based on On-Manifold Steering**
   <br>
   KR Patent App. No. 10-2026-0159951, 2026
