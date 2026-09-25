@@ -35,6 +35,7 @@ world-action models fast and reliable enough for real-time robot manipulation.
 
 
 ## <b style="color:#F88017">News</b>
+- **[2026.09]** Our paper ([AVIS](https://arxiv.org/abs/2605.20624)) has been accepted to [NeurIPS 2026](https://neurips.cc/).
 - **[2026.05]** Our paper ([AGSM](https://arxiv.org/abs/2605.30038)) has been accepted to [ICML 2026](https://icml.cc/) as a Spotlight paper.
 - **[2026.03]** Our two papers ([FCDM](https://arxiv.org/abs/2603.09408) - main, [Zero4D](https://arxiv.org/abs/2503.22622) - findings) have been accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
 - **[2026.03]** I joined [KAIST AI](https://gsai.kaist.ac.kr/) as a Postdoctoral Researcher.
@@ -48,6 +49,25 @@ world-action models fast and reliable enough for real-time robot manipulation.
 
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/avis.jpg" class="teaser img-fluid z-depth-1 loop">
+    <abbr class="badge">NeurIPS</abbr>
+  </div>
+  <div id="fcdm" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2605.20624">Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models</a></div>
+      <div class="author"><strong>Taesung Kwon*</strong>, J. Park*, H. Chung, J. C. Ye</div>
+    <div class="periodical"><em><strong>NeurIPS 2026</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2605.20624" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://avis-project.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
