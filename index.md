@@ -25,7 +25,7 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 
   - **Efficient Generative Modeling:** Designing efficient and scalable frameworks for generative models.
   - **Generative Priors as Spatial Intelligence:** Leveraging generative models to solve visual and scientific problems (e.g., imaging through scattering media).
-  - **Efficient Embodied Deployment:** Making vision-language-action and
+  - **Generative Policies for Physical AI:** Making vision-language-action and
 world-action models fast and reliable enough for real-time robot manipulation.
 
 ## Grants
