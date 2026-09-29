@@ -292,17 +292,11 @@ Off-the-Shelf Video Diffusion Models</a></div>
 
 - **Image Generation Using Convolution Diffusion Models**
   <br>
-  U.S. Patent App. No. 19,449,217, 2026
+  U.S. Patent App. No. 19/449,217, 2026
 
-- **Method and Apparatus for Accelerating Video Restoration Using Autoregressive Diffusion Models**
+- **Method and Apparatus for Video Restoration Beyond Dynamic Scattering Media Using Video Diffusion Posterior Sampling**
   <br>
-  KR Patent App. No. 10-2026-0161283, 2026
-
-- **Method and Apparatus for Video Generation Based on On-Manifold Steering**
-  <br>
-  KR Patent App. No. 10-2026-0159951, 2026
-
-- **Method and Apparatus for Video Restoration Beyond Dynamic Scattering Layers Using Video Diffusion Posterior Sampling**
+  U.S. Patent App. No. 19/815,604, 2026
   <br>
   KR Patent App. No. 10-2026-0031241, 2026
 
@@ -311,6 +305,14 @@ Off-the-Shelf Video Diffusion Models</a></div>
   PCT App. No. PCT/KR2026/007929, 2026
   <br>
   KR Patent App. No. 10-2026-0049062, 2026
+
+- **Method and Apparatus for Accelerating Video Restoration Using Autoregressive Diffusion Models**
+  <br>
+  KR Patent App. No. 10-2026-0161283, 2026
+
+- **Method and Apparatus for Video Generation Based on On-Manifold Steering**
+  <br>
+  KR Patent App. No. 10-2026-0159951, 2026
 
 - **Method and Apparatus for Generating Intermediate Video Frames via Bidirectional Sampling**
   <br>
