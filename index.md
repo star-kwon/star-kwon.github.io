@@ -25,13 +25,12 @@ My research aims to advance **efficient generative modeling** for **sustainable 
 
   - **Efficient Generative Modeling:** Designing efficient and scalable frameworks for generative models.
   - **Generative Priors as Spatial Intelligence:** Leveraging generative models to solve visual and scientific problems (e.g., imaging through scattering media).
-  - **Generative Policies for Physical AI:** Making vision-language-action and
-world-action models fast and reliable enough for real-time robot manipulation.
+  - **Generative Policies for Physical AI:** Making vision-language-action models (VLAs) and world action models (WAMs) fast and reliable enough for real-time robot manipulation.
 
 ## Grants
 - **Sejong Science Fellowship** | *2026 – 2031*
   <br>Principal Investigator (PI)
-  <br>KRW 500,000,000 (~ USD 350,000)
+  <br>KRW 435,000,000 (~ USD 330,000)
 
 
 ## <b style="color:#F88017">News</b>
@@ -319,7 +318,7 @@ Off-the-Shelf Video Diffusion Models</a></div>
   KR Patent App. No. 10-2025-0114505, 2025
 
 
-- **Method and Apparatus for Solving Video Inverse Problem using Image Diffusion Models**
+- **Method and Apparatus for Solving Video Inverse Problem Using Image Diffusion Models**
   <br>
   KR Patent App. No. 10-2025-0171861, 2025
 
