@@ -4,7 +4,7 @@ layout: homepage
 
 ## Welcome!
 I am a Postdoctoral Researcher at KAIST AI.
-Currently, I am leading research on efficient generative modeling supported by the Sejong Science Fellowship (KRW 500M / USD 350K).
+Currently, I am leading research on efficient generative modeling supported by the Sejong Science Fellowship (KRW 435M / USD 330K).
 I received my Ph.D., M.S., and B.S. in the Dept. of Bio and Brain Engineering from KAIST. During my Ph.D., I was co-advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html) and Prof. [Mooseok Jang](https://mooolab.kaist.ac.kr/People.html), and I completed my M.S. advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html).
 
 
